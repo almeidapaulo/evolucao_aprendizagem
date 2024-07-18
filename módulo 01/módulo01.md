@@ -4,10 +4,6 @@
 
 ## Conteúdos a serem trabalhados nesse módulo:
 
-- Soft skills
-- LinkedIn
-- Ética em tecnologia
-- Gestão de tempo
 - Introdução a HTML e CSS
 - Formulários
 - Responsividade
